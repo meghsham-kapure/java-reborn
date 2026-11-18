@@ -553,3 +553,10 @@ target\surefire-reports\
 ---
 
 Good luck — start with `EmployeeBadge.java` and run `.\mvnw.cmd test -Dtest=EmployeeBadgeTest`!
+
+## Git Commands
+
+- Push your work to your repo: `git push`
+- Pull updates from the original repo:
+  1. `git fetch upstream`
+  2. `git merge upstream/main`
